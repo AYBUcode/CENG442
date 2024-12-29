@@ -107,8 +107,3 @@ A text file containing:
 
 ---
 
-## Learning Outcomes:
-- Implement Seq2Seq models in TensorFlow for text summarization.
-- Understand attention mechanisms and their role in improving performance.
-- Evaluate summarization models using established metrics.
-- Develop teamwork and communication skills through collaborative project work.
