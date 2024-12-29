@@ -9,6 +9,12 @@ Developing a Text Summarization System for News Articles Using Seq2Seq Models wi
 Students will implement a Seq2Seq model with attention for summarizing news articles. The project will involve dataset preparation, model development, evaluation, and submission of a report, code, and a short video presentation.
 The dataset: https://drive.google.com/file/d/1SgsCORTz5seRiuBLQefmr-MNeH9SuN7s/view?usp=sharing
 
+The due dates for the submission are as follows:
+
+- Till 04.01.2025, 23:59: No penalty.
+- Till 05.01.2025, 23:59: 15% penalty.
+- Till 06.01.2025, 23:59: 30% penalty.
+
 ---
 
 ## Instructions:
